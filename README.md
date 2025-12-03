@@ -2,7 +2,8 @@
 
 ## 📌 Project Overview
 
-This project showcases BMW Sales Analysis, created entirely in Microsoft Excel. The dashboard is designed to explore sales performance, customer trends, and key business metrics within BMW’s product lineup. It converts raw data into clear, meaningful insights using interactive charts, KPIs, and visual storytelling.
+This project showcases BMW Sales Analysis, created entirely in Microsoft Excel. The dashboard is designed to explore sales performance, customer trends, and key business metrics within BMW’s product lineup. 
+It converts raw data into clear, meaningful insights using interactive charts, KPIs, and visual storytelling.
 
 ## 🎯 Dashboard Purpose
   ### The primary aim of this dashboard is to :
